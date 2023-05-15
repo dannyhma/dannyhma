@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ## 📫 &nbsp; How to reach me:
 
 
-<a href="https://www.linkedin.com/in/danny-himawan/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="(https://www.linkedin.com/in/danny-himawan-a9a63a211/)"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:dannyhimawan@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/dannyhimawan__"><img src="https://img.shields.io/badge/-@dannyhimawan___-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/dannyhimawan__"><img src="https://img.shields.io/badge/-@dannyhimawan__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 
 <p align="left">
