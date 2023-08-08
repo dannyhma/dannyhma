@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 **dannyhma/dannyhma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,12 +15,10 @@ Here are some ideas to get you started:
 
 ## 📫 &nbsp; How to reach me:
 
-
 <a href="https://www.linkedin.com/in/danny-himawan-a9a63a211/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:dannyhimawan@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/dannyhimawan__"><img src="https://img.shields.io/badge/-@dannyhimawan__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-<a href="https://www.figma.com/@dannyhma"><img src="https://img.shields.io/badge/-@danyhma-E4405F?style=flat&logo=figma&logoColor=white%22/></a> &nbsp;
-
+<a href="https://www.figma.com/@dannyhma"><img src="https://img.shields.io/badge/-@dannyhma-E4405F?style=flat&logo=figma&logoColor=white"/></a> &nbsp;;
 
 <p align="left">
   <a href="https://github.com/dannyhma">
